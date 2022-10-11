@@ -1,3 +1,3 @@
-Task 3 is targeted specifically at building the ability to recognise commercial, actionable insights from your analysis and displaying it in a clear and concise way for your client, with minimal jargon.
+Task 3 is targeted specifically at building the ability to recognise commercial, actionable insights from your analysis and displaying it in a clear and concise way for Julia (client), with minimal jargon.
 
 As both technical tasks 1 and 2 were open ended in terms of insights, this model answer will focus on the layout and the order of your inclusions, including where to include graphs, taglines, written insights and recommendations.
