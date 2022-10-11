@@ -2,9 +2,9 @@ Julia has asked us to evaluate the performance of a store trial which was perfor
 
 This can be broken down by:
 
-total sales revenue
-total number of customers
-average number of transactions per customer
+Total sales revenue
+Total number of customers
+Average number of transactions per customer
 
 Main areas of Focus are :
 
